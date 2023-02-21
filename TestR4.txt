@@ -1,0 +1,68 @@
+submission code: 234124-202201-207442898-4578057
+submission ids: 207422650, 207442898
+date submitted: 21/01/2023 16:00:13
+late days: 0
+approved late days: 0
+tests grade: 100.0
+final grade: 100.0
+
+TestsHW4/Mtmchkin_test/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test2:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test3:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test4:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test5:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test6:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test7:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test8:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test9:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test10:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test11:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+TestsHW4/Mtmchkin_test/test12:
+    build: success
+    out: identical
+    err: identical
+    memory: success
