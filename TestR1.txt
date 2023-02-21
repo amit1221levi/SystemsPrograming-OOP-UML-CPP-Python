@@ -1,0 +1,58 @@
+submission code: 234124-202201-207442898-6849187
+submission ids: 207422650, 207442898
+date submitted: 09/12/2022 12:00:31
+late days: 0
+approved late days: 0
+tests grade: 100.0
+final grade: 100.0
+
+ex2-tests/tests/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex2-tests/tests/test2:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex2-tests/tests/test3:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex2-tests/tests/test4:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex2-tests/tests/test5:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex2-tests/tests/test6:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex2-tests/tests/test7:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex2-tests/tests/test8:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex2-tests/tests_const/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex2-tests/tests_player_copy/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
