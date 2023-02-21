@@ -1,0 +1,107 @@
+submission code: 234124-202201-207442898-3180492
+submission ids: 207422650, 207442898
+date submitted: 27/11/2022 19:00:23
+late days: 0
+approved late days: 0
+tests grade: 100.0
+final grade: 100.0
+
+ex1-tests/AsciiArt-encoded-tool-test2/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/AsciiArt-encoded-tool-test3/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/AsciiArt-encoded-tool-test/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/AsciiArt-inverted-tool-test2/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/AsciiArt-inverted-tool-test3/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/AsciiArt-inverted-tool-test/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test1:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test2:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test3:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test4:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test5:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test6:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test7:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test8:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test9:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test10:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test11:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test12:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/RLE-tests/test13:
+    build: success
+    out: identical
+    err: identical
+    memory: success
+ex1-tests/makefile:
+    build: success
+    exec files: built
+    object files: built
