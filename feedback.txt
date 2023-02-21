@@ -1,0 +1,47 @@
+submission code: 234124-202201-207442898-0368768
+submission ids: 207422650, 207442898
+date submitted: 25/01/2023 10:49:44
+late days: 0
+approved late days: 0
+tests grade: 100.0
+final grade: 100.0
+
+HW5Tests/tests/test1:
+    out: identical
+    err: identical
+HW5Tests/tests/test2:
+    out: identical
+    err: identical
+HW5Tests/tests/test3:
+    out: identical
+    err: identical
+HW5Tests/tests/test4:
+    out: identical
+    err: identical
+HW5Tests/tests/test5:
+    out: identical
+    err: identical
+HW5Tests/tests/test6:
+    out: identical
+    err: identical
+HW5Tests/tests/test7:
+    out: identical
+    err: identical
+HW5Tests/tests/test8:
+    out: identical
+    err: identical
+HW5Tests/tests/test9:
+    out: identical
+    err: identical
+HW5Tests/tests/test10:
+    out: identical
+    err: identical
+HW5Tests/tests/test11:
+    out: identical
+    err: identical
+HW5Tests/tests/test12:
+    out: identical
+    err: identical
+HW5Tests/tests/test13:
+    out: identical
+    err: identical
